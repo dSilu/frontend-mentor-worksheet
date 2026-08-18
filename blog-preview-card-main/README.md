@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/dSilu/frontend-mentor-worksheet/tree/main/blog-preview-card-main)
+- [Live Site URL](https://blog-preview-card-dsilu.netlify.app)
 
 ## My process
 
