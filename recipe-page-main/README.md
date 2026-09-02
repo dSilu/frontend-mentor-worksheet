@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/your-solution-link](https://www.frontendmentor.io/solutions/your-solution-link)
-- Live Site URL: [https://your-github-username.github.io/recipe-page/](https://your-github-username.github.io/recipe-page/)
+- [Solution URL](https://github.com/dSilu/frontend-mentor-worksheet/tree/main/recipe-page-main)
+- [Live Site URL](https://recipe-page-main-dsilu.netlify.app/)
 
 ## My process
 
